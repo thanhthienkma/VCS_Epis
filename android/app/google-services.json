@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "594328122834",
+    "firebase_url": "https://vcsepis-e5a42.firebaseio.com",
+    "project_id": "vcsepis-e5a42",
+    "storage_bucket": "vcsepis-e5a42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594328122834:android:e39d7bcc3fb53a8dd0c40b",
+        "android_client_info": {
+          "package_name": "com.au.vcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594328122834-otl2ar25dk8068pvftvjm00tpvcbiik2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.au.vcs",
+            "certificate_hash": "8b5e6e5b84209df8eafb1e5baa2bff2c500828cd"
+          }
+        },
+        {
+          "client_id": "594328122834-c2t7s3l7dbdmghc8ihj4iul8nap72lut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.au.vcs",
+            "certificate_hash": "cfb8a6cd2f34d8d3969b19f86e8f1df73bfc2b42"
+          }
+        },
+        {
+          "client_id": "594328122834-1moa6g0i39hs2p97uessifnq9pslvodp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6DTUY0HGghb5gW1m-0c2-mcQ9QVwO7os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594328122834-1moa6g0i39hs2p97uessifnq9pslvodp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "594328122834-lq6q5jdqp5cr90evv52sivo9sr8etbla.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.au.vcs"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594328122834:android:d9dc308385263fcbd0c40b",
+        "android_client_info": {
+          "package_name": "com.vcs.trans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594328122834-1moa6g0i39hs2p97uessifnq9pslvodp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6DTUY0HGghb5gW1m-0c2-mcQ9QVwO7os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594328122834-1moa6g0i39hs2p97uessifnq9pslvodp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "594328122834-lq6q5jdqp5cr90evv52sivo9sr8etbla.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.au.vcs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

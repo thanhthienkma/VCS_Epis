@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>594328122834-807deeepvt8u8vcp7cgaprph022mnot5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.594328122834-807deeepvt8u8vcp7cgaprph022mnot5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>594328122834-otl2ar25dk8068pvftvjm00tpvcbiik2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA-VTw3c5nIzpY4k4UHeRiu0tOB3AO8tV8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>594328122834</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vcs.trans</string>
+	<key>PROJECT_ID</key>
+	<string>vcsepis-e5a42</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vcsepis-e5a42.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:594328122834:ios:b2b4e8c2d486161ed0c40b</string>
+	<key>DATABASE_URL</key>
+	<string>https://vcsepis-e5a42.firebaseio.com</string>
+</dict>
+</plist>
